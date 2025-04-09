@@ -1,0 +1,12 @@
+/Users/codelab/github/aerospiker/rspike/target/debug/deps/libbase64-53c43bba8ed40cb0.rmeta: /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/Users/codelab/github/aerospiker/rspike/target/debug/deps/base64-53c43bba8ed40cb0.d: /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs:
+/Users/codelab/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs:

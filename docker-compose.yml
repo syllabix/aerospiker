@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  aerospike:
+    image: aerospike/aerospike-server:latest
+    ports:
+      - "3000:3000"  # Client port
+      - "3001:3001"  # Fabric port
+      - "3002:3002"  # Mesh port
+      - "3003:3003"  # Info port
+    volumes:
+      - ./aerospike-data:/opt/aerospike/data
+      - ./aerospike-conf:/opt/aerospike/etc
+    environment:
+      - AEROSPIKE_NAMESPACE=test
+      - AEROSPIKE_MEMORY_GB=1
+      - AEROSPIKE_STORAGE_GB=1
+  
